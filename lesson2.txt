@@ -22,3 +22,8 @@ They also help you stay organized when you want to share a project with the publ
 
 How do the diagrams help you visualize the branch structure?
 THe diagrams make it more clear to see the relationships between each branch. It clearly shows where the branches took place in the master branch. The list format given to us by typing git log --graph --online is helpful but with the details but its faster to read the breaks in a diagram. 
+
+
+What is the result of merging two branches together? WHy do we represent it in the deagram the way we do?
+
+When two branches are merged, nothing gets deleted, instead all the commits are combined into one branch and organized by time stamps. They are represented as one line in the diagram because it is the easiest way to illustrate the merging of the two branches. 
