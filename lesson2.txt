@@ -16,3 +16,5 @@ You can use git diff--staged to see the changes that have been made between the 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Situations where branches would be helpful in keeping my history organized would be if I were creating different versions of the same project. The branches allow me to make commits in one branch while keeping the other branches intact. 
+
+They also help you stay organized when you want to share a project with the public. The master branch is the one that never breaks. The other branches would be used for unique features or when you are experimenting and expect them to break. 
