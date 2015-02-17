@@ -18,3 +18,7 @@ What are some situations when branches would be helpful in keeping your history 
 Situations where branches would be helpful in keeping my history organized would be if I were creating different versions of the same project. The branches allow me to make commits in one branch while keeping the other branches intact. 
 
 They also help you stay organized when you want to share a project with the public. The master branch is the one that never breaks. The other branches would be used for unique features or when you are experimenting and expect them to break. 
+
+
+How do the diagrams help you visualize the branch structure?
+THe diagrams make it more clear to see the relationships between each branch. It clearly shows where the branches took place in the master branch. The list format given to us by typing git log --graph --online is helpful but with the details but its faster to read the breaks in a diagram. 
