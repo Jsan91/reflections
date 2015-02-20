@@ -27,3 +27,8 @@ THe diagrams make it more clear to see the relationships between each branch. It
 What is the result of merging two branches together? WHy do we represent it in the deagram the way we do?
 
 When two branches are merged, nothing gets deleted, instead all the commits are combined into one branch and organized by time stamps. They are represented as one line in the diagram because it is the easiest way to illustrate the merging of the two branches. 
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+Generally, automatic merging works wonderfully when there are no conflicts or branches that have not made changes to the same files. Git will merge all the commits from the two branches and organize them by the time they were commited. When Two branches have a common file that have been changed, automatic merging does not work and gives a conflict detection warning. When this happens, the user has to look through the conflicting files and judge which changes to keep and which to delete. This can seem tedious to the user if the changes he/she wants to keep seem pretty straight forward but Git cannot make those types of judgement calls and can just point out that a there are conflicts in a file.  

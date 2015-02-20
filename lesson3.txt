@@ -1,3 +1,8 @@
 When would you want to create a remote repository rather than keeping all your work local?
-You would create a remote repository when you want to have access to it from multiple computers rather than than just the local
-one.
+
+You would create a remote repository when you want to have access to it from multiple computers rather than than just the local one.
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+There might be files in your local computer that are more up to date than the ones in Github so you don't want to overlap them. 
