@@ -16,3 +16,8 @@ Forks are clones that Github makes for you which exists only on Github but still
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can work on this saved state offline on your local computer and use it to compare the differences with the master branch in Github. 
+
+
+How would you collaborate without using Git or Github? What would be easier and what would be harder?
+
+Collaborating without using Git or Github is harder becasue you have to resort to emailing files back and forth and having to search line by line for the changes made by your colleague. 
