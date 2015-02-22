@@ -11,3 +11,8 @@ There might be files in your local computer that are more up to date than the on
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks are clones that Github makes for you which exists only on Github but still allow you to clone to your own computer. This is done when you don't have access to change someone else's repository. Clones are copies of repositories that you can make to your local computer. Branches are labels to a group of commits on Git. 
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can work on this saved state offline on your local computer and use it to compare the differences with the master branch in Github. 
