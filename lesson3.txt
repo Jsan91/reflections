@@ -21,3 +21,7 @@ You can work on this saved state offline on your local computer and use it to co
 How would you collaborate without using Git or Github? What would be easier and what would be harder?
 
 Collaborating without using Git or Github is harder becasue you have to resort to emailing files back and forth and having to search line by line for the changes made by your colleague. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have? 
+
+Someone may want to make changes in a seperate branch when she is editing a file on the master branch that could be considered a different version rather than a bug fix. Before merging into the master branch, tt is prudent to make a sepeate branch to make sure that the changes in the different version are really wanted in the master branch. On the other hand, editing directly onto the master branch is a lot faster than having to pull and push between a local file and the Github file. 
